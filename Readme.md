@@ -1,5 +1,7 @@
 # PyImageSearch R-CNN object detection with Keras
 
+[PyImageSearch Blog](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/)
+
 
 # Visualize VOC Format Data
 
